@@ -1,0 +1,6 @@
+{
+  "name": "Math Challenge Arena - The Ultimate Mathematics Battle",
+  "description": "Game edukasi matematika interaktif untuk siswa kelas VII SMP yang dioptimalkan untuk Proyektor Interaktif Digital (PID) dan kompetisi kelas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
